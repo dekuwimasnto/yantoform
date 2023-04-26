@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2d5ef97.css",
+    "main.js": "/static/js/main.1ece6c1f.js",
+    "static/media/001_Intranet_Background_2020.jpg": "/static/media/001_Intranet_Background_2020.b103faf86c98635f87d3.jpg",
+    "static/media/laptop.png": "/static/media/laptop.c8764bfdb3306bba359a.png",
+    "index.html": "/index.html",
+    "main.a2d5ef97.css.map": "/static/css/main.a2d5ef97.css.map",
+    "main.1ece6c1f.js.map": "/static/js/main.1ece6c1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2d5ef97.css",
+    "static/js/main.1ece6c1f.js"
+  ]
+}
